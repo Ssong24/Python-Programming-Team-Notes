@@ -15,7 +15,9 @@
 
  ### Searching
 
-* [Binary Search](/Searching/binary_search.py)
+* Binary Search
+    * [Recursive Function](/Searching/binary_search_recursive.py)
+    * [Repetitive Statement](/Searching/binary_search_repetitive.py)
 * [Python Binary Search Library](/Searching/python_binary_search_library.py)
     * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
 * DFS
