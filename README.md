@@ -13,7 +13,7 @@
 * [Counting Sort](/Sorting/counting_sort.py)
 * [Sort Library](/Sorting/sort_library.py)
 
-<!-- ### Searching
+ ### Searching
 
 * [Binary Search](/Searching/binary_search.py)
 * [Python Binary Search Library](/Searching/python_binary_search_library.py)
@@ -22,7 +22,7 @@
 * BFS
     * [Find the number of connected components](/Searching/find_the_number_of_connected_components.py)
 * [DFS & BFS Examples 1](/Searching/dfs_and_bfs_example_1.py)
-
+<!--
 ### Graph
 
 * [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
