@@ -8,7 +8,7 @@ def binary_search(array, target, start, end):
   """
   if start > end:
     return None
-  mid = start + end // 2
+  mid = (start + end) // 2
 
   # 중간값 부터 체크
   if array[mid] == target:
