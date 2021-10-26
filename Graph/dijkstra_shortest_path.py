@@ -1,5 +1,6 @@
 import heapq
 import sys
+import time
 input = sys.stdin.readline
 INF = int(1e9)
 
@@ -36,10 +37,12 @@ def dijkstra(graph, start, distance):
                 distance[i[0]] = cost
                 heapq.heappush(q, (cost, i[0]))
 
-
+# 알고리즘 수행 시간 측정
+start_time = time.time()
 # 다익스트라 알고리즘을 수행
 dijkstra(graph, start, distance)
-
+end_time = time.time()
+print('Time: {:5f}'.format(end_time - start_time))  # 0.00000
 # 모든 노드로 가기 위한 최단 거리를 출력
 for i in range(1, n+1):
     # 도달할 수 없는 경우, 무한(INFINITY)이라고 출력
