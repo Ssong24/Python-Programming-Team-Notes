@@ -19,7 +19,7 @@
     * [Recursive Function](/Searching/binary_search_recursive.py)
     * [Repetitive Statement](/Searching/binary_search_repetitive.py)
 * [Python Binary Search Library](/Searching/python_binary_search_library.py)
-    * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
+    * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array]<!-- (/Searching/count_the_number_of_frequencies_in_a_sorted_array.py) -->
 * DFS
 * BFS
     * [Find the number of connected components]<!--(/Searching/find_the_number_of_connected_components.py)-->
@@ -35,7 +35,7 @@
 
 ### Data Structure
 
-* [Disjoint-Set (Union-Find)](/Data%20Structure/disjoint_set.py)
+* [Disjoint-Set (Union-Find)]<!--(/Data%20Structure/disjoint_set.py)-->
 * Tree
 * Line
 * Plane
@@ -56,7 +56,7 @@
 
 ### Geometry
 
-* [Number of intersection points of two lines in 1 dimension](/Geometry/number_of_intersection_points_of_two_lines_in_1_dimension.py)
+* [Number of intersection points of two lines in 1 dimension]<!--(/Geometry/number_of_intersection_points_of_two_lines_in_1_dimension.py) -->
 * CCW
 * Convex Hull
 * Polygon
@@ -65,7 +65,7 @@
 
 * Permutation
 * Combination
-
+<!--
 ### Number Theory
 
 * [GCD (Greatest Common Divisor)](/Number%20Theory/gcd.py)
@@ -77,7 +77,9 @@
 
 ### Signal Processing
 * FFT
-* 
+
+-->
+
 ### Miscellaneous
 * [Quickly Read Input](/Miscellaneous/quick_read.py)
 <!-- * Two Pointers
