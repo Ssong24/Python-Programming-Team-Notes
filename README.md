@@ -11,6 +11,7 @@
 * [Insertion Sort](/Sorting/insertion_sort.py)
 * [Quick Sort](/Sorting/quick_sort.py)
 * [Counting Sort](/Sorting/counting_sort.py)
+* [Heap Sort](/Sorting/heap_sort.py)
 * [Sort Library](/Sorting/sort_library.py)
 
  ### Searching
