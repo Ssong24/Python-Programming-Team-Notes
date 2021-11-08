@@ -22,13 +22,13 @@
     * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array]<!-- (/Searching/count_the_number_of_frequencies_in_a_sorted_array.py) -->
 * DFS
 * BFS
-    * [Find the number of connected components](/Searching/find_the_number_of_connected_components.py)
+    * [Find the number of connected components]<!--(/Searching/find_the_number_of_connected_components.py)-->
 * [DFS & BFS Examples 1]<!-- (/Searching/dfs_and_bfs_example_1.py)-->
 
 ### Graph
 
 * [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
-* [Minimum Spanning Tree (MST)]<!-- (/Graph/minimum_spanning_tree.py) -->
+* [Minimum Spanning Tree (MST)](/Graph/minimum_spanning_tree.py)
 * [Topology Sort]<!--(/Graph/topology_sort.py) -->
 * [Floyd–Warshall algorithm](/Graph/floyd_warshall_shortest_path.py)
 * Bipartite Matching
