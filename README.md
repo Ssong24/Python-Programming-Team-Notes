@@ -30,7 +30,7 @@
 
 * [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
 * [Minimum Spanning Tree (MST)](/Graph/minimum_spanning_tree.py)
-* [Topology Sort]<!--(/Graph/topology_sort.py) -->
+* [Topology Sort](/Graph/topology_sort.py)
 * [Floyd–Warshall algorithm](/Graph/floyd_warshall_shortest_path.py)
 * Bipartite Matching
 
